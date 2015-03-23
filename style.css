@@ -1,0 +1,39 @@
+.masthead-heading,
+.masthead-intro,
+.content-footer {
+    text-align: center;
+}
+
+.masthead {
+    padding: 6em 0;
+    background-image: url('http://remekoh.io/THINK/images/boardwalk_background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-top: 1em solid #333;
+}
+
+.masthead-intro {
+    margin-bottom: 0.1em;
+}
+
+.masthead-heading {
+    margin-top: -0.2em;
+}
+
+.content-footer,
+.introduction-section,
+.location-section,
+.questions-section {
+    max-width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+}
+
+.social > li {
+    display: inline-block;
+}
+
+.content-footer > p {
+ color: white;
+}
